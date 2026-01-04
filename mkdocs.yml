@@ -1,5 +1,5 @@
 # mkdocs.yml
-site_name: "CSCI 1XXX — Course Name"
+site_name: "CSCI 0500 Spring 2026"
 site_description: "Course website: lectures, assignments, hours, staff, policies."
 site_url: "https://YOUR_ORG.github.io/YOUR_REPO/"
 
@@ -15,15 +15,15 @@ theme:
 
   # Keep the UI simple: top tabs + scroll-tracking + good TOC behavior.
   features:
-    - navigation.tabs            # top-level tabs (Home, Lectures, etc.)
-    - navigation.instant         # faster navigation
-    - navigation.tracking        # updates URL w/ active anchor while scrolling
-    - toc.follow                 # keeps active TOC entry visible as you scroll
-    - toc.integrate              # optional: move TOC into left nav (see note below)
+    - navigation.tabs # top-level tabs (Home, Lectures, etc.)
+    - navigation.instant # faster navigation
+    - navigation.tracking # updates URL w/ active anchor while scrolling
+    - toc.follow # keeps active TOC entry visible as you scroll
+    - toc.integrate # optional: move TOC into left nav (see note below)
     - search.suggest
     - search.highlight
-    - content.action.edit        # "Edit this page" button (low maintenance)
-    - content.code.copy          # copy button for code blocks (useful in courses)
+    - content.action.edit # "Edit this page" button (low maintenance)
+    - content.code.copy # copy button for code blocks (useful in courses)
 
   palette:
     - scheme: default
@@ -47,10 +47,10 @@ nav:
   - Home: index.md
   - Lectures: lectures.md
   - Assignments: assignments.md
+  - Labs: labs.md
   - Calendar/Hours: hours.md
   - Staff: staff.md
   - Resources: resources.md
-  - Syllabus: syllabus.md
 
 plugins:
   - search
