@@ -1,14 +1,15 @@
 # mkdocs.yml
-site_name: "CSCI 0500 Spring 2026"
+site_name: "CSCI 0500 - Spring 2026"
 site_description: "Course website: lectures, assignments, hours, staff, policies."
 site_url: "https://YOUR_ORG.github.io/YOUR_REPO/"
 
-repo_url: "https://github.com/YOUR_ORG/YOUR_REPO"
-repo_name: "YOUR_ORG/YOUR_REPO"
-edit_uri: "edit/main/docs/"
+# repo_url: "https://github.com/YOUR_ORG/YOUR_REPO"
+# repo_name: "YOUR_ORG/YOUR_REPO"
+# edit_uri: "edit/main/docs/"
 
 theme:
   name: material
+  custom_dir: docs/overrides
   language: en
   icon:
     repo: fontawesome/brands/github
@@ -22,7 +23,6 @@ theme:
     - toc.integrate # optional: move TOC into left nav (see note below)
     - search.suggest
     - search.highlight
-    - content.action.edit # "Edit this page" button (low maintenance)
     - content.code.copy # copy button for code blocks (useful in courses)
 
   palette:

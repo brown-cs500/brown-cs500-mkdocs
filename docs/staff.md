@@ -1,6 +1,8 @@
+## Professor
+
 <div class="staff-cards">
 
-  <div class="staff-card">
+<div class="staff-card">
     <img src="https://media.licdn.com/dms/image/v2/D5603AQFicES1ItSoug/profile-displayphoto-shrink_400_400/B56ZbwxfArHgAg-/0/1747796226482?e=1768435200&v=beta&t=LaZ7kO7iatpLKIZZKasQbpfrSFdbFQKz_xh1pYGSceU" width="120" />
     <div class="staff-card-text">
       <h3>Lorenzo De Stefani</h3>
@@ -9,7 +11,12 @@
     </div>
   </div>
 
-  <div class="staff-card">
+</div>
+
+## HTAs
+
+<div class="staff-cards">
+<div class="staff-card">
     <img src="https://media.licdn.com/dms/image/v2/D5603AQFicES1ItSoug/profile-displayphoto-shrink_400_400/B56ZbwxfArHgAg-/0/1747796226482?e=1768435200&v=beta&t=LaZ7kO7iatpLKIZZKasQbpfrSFdbFQKz_xh1pYGSceU" width="120" />
     <div class="staff-card-text">
       <h3>Ethan Park</h3>
@@ -26,15 +33,11 @@
       <p>lisa bio here</p>
     </div>
   </div>
+</div>
 
-  <div class="staff-card">
-    <img src="https://media.licdn.com/dms/image/v2/D5603AQFicES1ItSoug/profile-displayphoto-shrink_400_400/B56ZbwxfArHgAg-/0/1747796226482?e=1768435200&v=beta&t=LaZ7kO7iatpLKIZZKasQbpfrSFdbFQKz_xh1pYGSceU" width="120" />
-    <div class="staff-card-text">
-      <h3>Aarjav Jain</h3>
-      <p><strong>HTA</strong> — ajain181</p>
-      <p>bio here</p>
-    </div>
-  </div>
+## UTA/GTAs
+
+<div class="staff-cards">
 
   <div class="staff-card">
     <img src="https://media.licdn.com/dms/image/v2/D5603AQFicES1ItSoug/profile-displayphoto-shrink_400_400/B56ZbwxfArHgAg-/0/1747796226482?e=1768435200&v=beta&t=LaZ7kO7iatpLKIZZKasQbpfrSFdbFQKz_xh1pYGSceU" width="120" />
