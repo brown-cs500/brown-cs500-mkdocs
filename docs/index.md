@@ -1,6 +1,12 @@
-## Course Information
+---
+hide:
+  - toc
+  - navigation
+---
 
-### Welcome to **CSCI 0500 - Data Structures, Algorithms, and Intractability: An Introduction!**
+# Course Information
+
+## Welcome to **CSCI 0500 - Data Structures, Algorithms, and Intractability: An Introduction!**
 
 This course will cover the basics of how to design and analyze data structures and algorithms. We will develop algorithmic intuition through rigorous analysis of algorithmic correctness and performance. We will also study the theory of NP-completeness, which helps us understand which problems are computationally intractable.
 
@@ -21,7 +27,7 @@ and **[Algorithm Design. Erosh and Kleinberg.]("https://theswissbay.ch/pdf/Gento
 - Lecture Recordings (Panopto)
 - Anonymous feedback form
 
-Lecture slides will be released in advance for every lecture. For the list of lectures, see: [Lectures](../YOUR_REPO/lectures)
+Lecture slides will be released in advance for every lecture. For the list of lectures, see: [Lectures](lectures.md)
 
 ## Waitlist Information
 

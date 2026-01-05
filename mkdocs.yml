@@ -17,13 +17,17 @@ theme:
   # Keep the UI simple: top tabs + scroll-tracking + good TOC behavior.
   features:
     - navigation.tabs # top-level tabs (Home, Lectures, etc.)
+    - navigation.tabs.sticky
     - navigation.instant # faster navigation
+    - navigation.instant.progress
     - navigation.tracking # updates URL w/ active anchor while scrolling
     - toc.follow # keeps active TOC entry visible as you scroll
     - toc.integrate # optional: move TOC into left nav (see note below)
     - search.suggest
     - search.highlight
     - content.code.copy # copy button for code blocks (useful in courses)
+    - content.external.links
+    - announce.dismiss
 
   palette:
     - scheme: default
