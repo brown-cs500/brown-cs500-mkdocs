@@ -13,7 +13,7 @@ This course will cover the basics of how to design and analyze data structures a
 Lectures: **M/W 3–4:20 PM** (All lectures will be recorded) <br>
 Location: **TBD** <br>
 Textbook: **Algorithmic Foundations: Data Structures, Algorithms, and Intractability. Philip Klein.**
-and **[Algorithm Design. Erosh and Kleinberg.]("https://theswissbay.ch/pdf/Gentoomen%20Library/Algorithms/Algorithm%20Design%20-%20John%20Kleinberg%20-%20%C3%89va%20Tardos.pdf")** <br>
+and **[Algorithm Design. Erosh and Kleinberg.]("https://theswissbay.ch/pdf/Gentoomen%20Library/Algorithms/Algorithm%20Design%20-%20John%20Kleinberg%20-%20%C3%89va%20Tardos.pdf")** 
 
 ## Useful Links
 
