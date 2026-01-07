@@ -49,3 +49,18 @@
   background-color: #8b0000; /* example: dark red */
   color: white;
 }
+
+/* Full-width centered iframe for MkDocs Material */
+.iframe-container {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.iframe-container iframe {
+  display: block;
+  width: 100%;
+  max-width: 1200px; /* controls size — adjust if needed */
+  height: 1200px;
+  margin: 0 auto;
+  border: none;
+}
